@@ -160,9 +160,9 @@ def build_noshow_prediction_model(features):
 - **Stakeholder Alignment:** Operations, finance, and quality team perspectives
 
 ## Contact
-- **Name**: Abhinav Konagala
-- **LinkedIn**: [linkedin.com/in/abhinav-konagala](https://www.linkedin.com/in/abhinav-konagala/)
-- **Email**: [akdhpo+work@pm.me](mailto:akdhpo+work@pm.me)
+- **Name**: Rajnish Kumar
+- **LinkedIn**: [(https://www.linkedin.com/in/rajnish-kumar-8a57b42ab)]
+- **Email**: (rajnishkumarpvt821@gmail.com)
 
 
 ---
