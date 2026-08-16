@@ -1,0 +1,4 @@
+specialization,appointments,total_revenue,avg_revenue_per_appt,no_show_rate
+Dermatology,70,202709.29,2895.85,0.54
+Oncology,32,89602.73,2800.09,0.47
+Pediatrics,98,258937.83,2642.22,0.51

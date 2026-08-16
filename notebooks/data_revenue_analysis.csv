@@ -1,0 +1,5 @@
+status,appointment_count,total_revenue,avg_revenue
+Cancelled,51,152044.88,2981.27
+Completed,46,124100.46,2697.84
+No-show,52,142677.81,2743.8
+Scheduled,51,132426.7,2596.6

@@ -1,0 +1,12 @@
+,0
+total_patients,50
+total_doctors,10
+total_appointments,200
+completion_rate,0.23
+no_show_rate,0.515
+total_revenue,551249.8500000001
+completed_revenue,124100.46
+lost_revenue,427149.3900000001
+avg_patient_age,42.95242984257357
+peak_hour,15
+busiest_specialty,Pediatrics
